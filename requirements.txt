@@ -19,3 +19,4 @@ pillow # Image processing library
 
 librosa
 resemblyzer
+setuptools==81.0.0
