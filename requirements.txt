@@ -17,4 +17,5 @@ pillow # Image processing library
 
 streamlit # Web app framework for data science and machine learning
 
-
+librosa
+resemblyzer
